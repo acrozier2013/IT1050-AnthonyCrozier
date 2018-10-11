@@ -1,0 +1,7 @@
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\bin\Debug\LabW4-AnthonyCrozier.exe.config
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\bin\Debug\LabW4-AnthonyCrozier.exe
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\bin\Debug\LabW4-AnthonyCrozier.pdb
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\obj\Debug\LabW4-AnthonyCrozier.csprojAssemblyReference.cache
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\obj\Debug\LabW4-AnthonyCrozier.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\obj\Debug\LabW4-AnthonyCrozier.exe
+C:\Users\AJ\source\repos\LabW4-AnthonyCrozier\LabW4-AnthonyCrozier\obj\Debug\LabW4-AnthonyCrozier.pdb
