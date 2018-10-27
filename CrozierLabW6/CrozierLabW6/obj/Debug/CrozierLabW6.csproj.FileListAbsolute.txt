@@ -1,0 +1,7 @@
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\bin\Debug\CrozierLabW6.exe.config
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\bin\Debug\CrozierLabW6.exe
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\bin\Debug\CrozierLabW6.pdb
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\obj\Debug\CrozierLabW6.csprojAssemblyReference.cache
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\obj\Debug\CrozierLabW6.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\obj\Debug\CrozierLabW6.exe
+C:\Users\AJ\source\repos\CrozierLabW6\CrozierLabW6\obj\Debug\CrozierLabW6.pdb
