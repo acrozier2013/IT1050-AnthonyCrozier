@@ -1,0 +1,7 @@
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\bin\Debug\LabWeek13.exe.config
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\bin\Debug\LabWeek13.exe
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\bin\Debug\LabWeek13.pdb
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\obj\Debug\LabWeek13.csprojAssemblyReference.cache
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\obj\Debug\LabWeek13.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\obj\Debug\LabWeek13.exe
+C:\Users\AJ\source\repos\LabWeek13\LabWeek13\obj\Debug\LabWeek13.pdb
